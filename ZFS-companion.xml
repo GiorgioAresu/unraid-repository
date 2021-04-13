@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Plugin>True</Plugin>
+  <PluginURL>https://raw.githubusercontent.com/GiorgioAresu/ZFS-companion-unraid/main/ZFS-companion.plg</PluginURL>
+  <PluginAuthor>GiorgioAresu</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Tools:System</Category>
+  <Name>ZFS-companion</Name>
+  <Description>This plugins wants to be the sidekick to unRAID-ZFS from Steini1984, adding a widget for the dashboard, and possibly some APIs to get the status (ie. to use with HomeAssistant).
+  </Description>
+  <Icon>https://raw.githubusercontent.com/GiorgioAresu/ZFS-companion-unraid/main/src/ZFS-companion/usr/local/emhttp/plugins/ZFS-companion/images/ZFS-companion.png</Icon>
+</Containers>
